@@ -11,6 +11,6 @@ A página presente no repositório apresenta responsividade, se adaptando tanto 
 
 
 ### Resolução mobile
-<p align="center">
+<p align="center" height="40%">
   <img src="https://github.com/thenamesgiu/DIO_Replica_Instagram/blob/MainBranch/previews/Mobile_preview.PNG">
 </p>
