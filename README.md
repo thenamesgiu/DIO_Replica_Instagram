@@ -7,4 +7,4 @@ Nesse projeto você terá o desafio de reconstruir a página de login do Instagr
 A página presente no repositório apresenta responsividade, se adaptando tanto às proporções de um dispositivo desktop quanto mobile.
 
 ### Resolução desktop
-<img src="https://github.com/thenamesgiu/DIO_Replica_Instagram/blob/MainBranch/previews/Desktop_preview.PNG" style="height:40%;">
+<img src="https://github.com/thenamesgiu/DIO_Replica_Instagram/blob/MainBranch/previews/Desktop_preview.PNG" style=height:40%;>
