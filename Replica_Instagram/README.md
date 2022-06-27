@@ -6,4 +6,6 @@ Nesse projeto você terá o desafio de reconstruir a página de login do Instagr
 ## Prévia de interface
 A página presente no repositório apresenta responsividade, se adaptando tanto às proporções de um dispositivo desktop quanto mobile.
 
-<h3 style="color:pink;">alo</h3>
+### Resolução desktop
+
+
