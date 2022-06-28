@@ -1,1 +1,0 @@
-# Programa_Jovens_Tegranos_Exercicios
